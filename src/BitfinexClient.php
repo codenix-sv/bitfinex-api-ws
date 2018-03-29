@@ -8,8 +8,7 @@ declare(strict_types=1);
 
 namespace codenixsv\BitfinexWs;
 
-
-/**+
+/**
  * Class BitfinexClient
  * @package codenixsv\BitfinexWs
  */
